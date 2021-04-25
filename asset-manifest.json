@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/IsaacArnold/countdown-timer/static/css/main.9c2f2e2e.chunk.css",
-    "main.js": "/IsaacArnold/countdown-timer/static/js/main.ff3158f0.chunk.js",
-    "main.js.map": "/IsaacArnold/countdown-timer/static/js/main.ff3158f0.chunk.js.map",
-    "runtime-main.js": "/IsaacArnold/countdown-timer/static/js/runtime-main.75a3ee96.js",
-    "runtime-main.js.map": "/IsaacArnold/countdown-timer/static/js/runtime-main.75a3ee96.js.map",
-    "static/js/2.93c43b6d.chunk.js": "/IsaacArnold/countdown-timer/static/js/2.93c43b6d.chunk.js",
-    "static/js/2.93c43b6d.chunk.js.map": "/IsaacArnold/countdown-timer/static/js/2.93c43b6d.chunk.js.map",
-    "static/js/3.df63356d.chunk.js": "/IsaacArnold/countdown-timer/static/js/3.df63356d.chunk.js",
-    "static/js/3.df63356d.chunk.js.map": "/IsaacArnold/countdown-timer/static/js/3.df63356d.chunk.js.map",
-    "index.html": "/IsaacArnold/countdown-timer/index.html",
-    "static/css/main.9c2f2e2e.chunk.css.map": "/IsaacArnold/countdown-timer/static/css/main.9c2f2e2e.chunk.css.map",
-    "static/js/2.93c43b6d.chunk.js.LICENSE.txt": "/IsaacArnold/countdown-timer/static/js/2.93c43b6d.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/IsaacArnold/countdown-timer/static/media/pattern-hills.815d688f.svg"
+    "main.css": "/countdown-timer/static/css/main.7c01b49e.chunk.css",
+    "main.js": "/countdown-timer/static/js/main.ff3158f0.chunk.js",
+    "main.js.map": "/countdown-timer/static/js/main.ff3158f0.chunk.js.map",
+    "runtime-main.js": "/countdown-timer/static/js/runtime-main.385ef7c5.js",
+    "runtime-main.js.map": "/countdown-timer/static/js/runtime-main.385ef7c5.js.map",
+    "static/js/2.93c43b6d.chunk.js": "/countdown-timer/static/js/2.93c43b6d.chunk.js",
+    "static/js/2.93c43b6d.chunk.js.map": "/countdown-timer/static/js/2.93c43b6d.chunk.js.map",
+    "static/js/3.df63356d.chunk.js": "/countdown-timer/static/js/3.df63356d.chunk.js",
+    "static/js/3.df63356d.chunk.js.map": "/countdown-timer/static/js/3.df63356d.chunk.js.map",
+    "index.html": "/countdown-timer/index.html",
+    "static/css/main.7c01b49e.chunk.css.map": "/countdown-timer/static/css/main.7c01b49e.chunk.css.map",
+    "static/js/2.93c43b6d.chunk.js.LICENSE.txt": "/countdown-timer/static/js/2.93c43b6d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/countdown-timer/static/media/pattern-hills.815d688f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75a3ee96.js",
+    "static/js/runtime-main.385ef7c5.js",
     "static/js/2.93c43b6d.chunk.js",
-    "static/css/main.9c2f2e2e.chunk.css",
+    "static/css/main.7c01b49e.chunk.css",
     "static/js/main.ff3158f0.chunk.js"
   ]
 }
